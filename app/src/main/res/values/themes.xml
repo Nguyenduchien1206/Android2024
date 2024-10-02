@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HappyBirthday" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowNoTitle">false</item>
+    </style>
+</resources>
